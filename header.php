@@ -14,4 +14,13 @@
 </head>
 
 <body <?php body_class(); ?>>
-  <header>header</header>
+  <header>
+    <div class="logo">
+      <a href="/" lang="en">kumihan.com</a>
+      </a>
+    </div>
+    <ul>
+      <li lang="en"><a href="/archive">blog</a></li>
+      <li lang="en"><a href="">contact</a></li>
+    </ul>
+  </header>
